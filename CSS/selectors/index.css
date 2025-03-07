@@ -1,0 +1,16 @@
+*{
+    padding: 15px;
+    margin: 2px;
+    border: 0ch;
+}
+#content{
+  color: rgb(120, 81, 31);
+}
+
+.contentItem{
+    color:blueviolet;
+}
+
+div + p{
+    background-color: rgb(15, 15, 2);
+}
