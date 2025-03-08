@@ -1,0 +1,15 @@
+p {
+    color: black; /* General rule (Element selector - least specific) */
+}
+
+.special {
+    color: blue; /* Class selector - more specific */
+}
+
+#unique {
+    color: green; /* ID selector - even more specific */
+}
+
+p.inline {
+    color: red !important; /* !important - overrides everything */
+}
