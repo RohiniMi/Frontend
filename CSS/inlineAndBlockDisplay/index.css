@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 40px;
+}
+.block-container, .inline-container {
+    margin-top: 20px;
+    border: 2px solid #333;
+    padding: 10px;
+}
+
+.block-box {
+    display: block;
+    width: 100px;
+    background-color: lightgreen;
+    padding: 10px;
+    margin: 5px auto;
+}
+.inline-box {
+    display: inline-block;
+    width: 100px;
+    background-color: lightsalmon;
+    padding: 10px;
+    margin: 5px;
+}
