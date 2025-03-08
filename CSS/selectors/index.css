@@ -10,7 +10,10 @@
 .contentItem{
     color:blueviolet;
 }
-
+/* child selector */
+div>p{
+  color:brown;
+}
 div + p{
     background-color: rgb(15, 15, 2);
 }
