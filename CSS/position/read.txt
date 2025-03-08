@@ -1,0 +1,69 @@
+What is position in CSS?
+
+The position property in CSS is used to control how an element is placed on a webpage. It determines whether an element follows the normal document flow or is positioned differently.
+
+Types of position in CSS
+
+Position Type	    Description
+static	           Default position (normal document flow)
+relative	       Moves an element relative to its normal position
+absolute	       Positions an element relative to the nearest positioned ancestor
+fixed	           Positions an element relative to the viewport (stays in place while scrolling)
+sticky	           Sticks to a position while scrolling and then stops
+
+Real-Life Examples
+
+Imagine a chessboard where different chess pieces have different positioning rules.
+
+1. static (Default Position)
+📌 Example: Think of the pawns in a chess game. They start in a fixed place and move according to the game's normal rules.
+
+
+🔹 Effect: The element follows the normal document flow.
+
+2. relative (Moves from its original position)
+📌 Example: A horse (knight) in chess moves in an L-shape but still respects its starting position.
+
+css
+
+p {
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+🔹 Effect: The element moves 20px down and 30px right but still takes up space in the original layout.
+
+3. absolute (Moves independently, ignores normal layout)
+📌 Example: A drone hovering independently in the sky does not follow the ground rules.
+
+css
+
+p {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+🔹 Effect: The element moves relative to its nearest positioned ancestor (if none, it moves relative to the <html> body).
+
+4. fixed (Stays in one place, even when scrolling)
+📌 Example: A sticky note on a fridge remains in the same place, no matter where you walk in the kitchen.
+
+css
+
+p {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+🔹 Effect: The element stays at the top-right corner even when the user scrolls.
+
+5. sticky (Acts like relative but sticks when scrolling)
+📌 Example: A bus stop sign moves with the bus but sticks in place when stopped.
+
+css
+
+p {
+    position: sticky;
+    top: 0;
+}
+🔹 Effect: The element scrolls normally but sticks at the top when it reaches top: 0;.
