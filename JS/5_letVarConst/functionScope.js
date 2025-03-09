@@ -18,4 +18,4 @@ print();
 // console.log("outside the function");
 // console.log(age, " outside"); // gives error
 // console.log(name, " outside"); // gives error
-// console.log(message, " outside"); // gives error
+// console.log(message, " outside"); /// gives error
