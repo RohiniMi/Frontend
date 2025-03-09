@@ -1,0 +1,44 @@
+### Objective:
+
+Demonstrate your understanding of JavaScript strings, boolean values, and the `typeof` operator by completing the tasks below.
+
+### Instructions:
+
+- Write your code in a JavaScript (.js) file.
+- Comment each section of your code to describe what it does.
+- Test your code to make sure each part works correctly.
+- Use `console.log()` to print the results of each task.
+
+### Tasks:
+
+### Part 1: String Operations
+
+1. **String Creation**:
+    - Create a string variable using single quotes.
+    - Create another string variable using double quotes.
+    - Create a third string variable using template literals (backticks).
+2. **String Concatenation**:
+    - Combine the three - strings from the first task into one new string.
+- Print the combined string to the console.
+
+### Part 2: Boolean Logic
+
+**True or False**:
+
+- Initialize a boolean variable with a `true` value and another with a `false` value.
+- Print both values to the console.
+
+### Part 3: The `typeof` Operator
+
+**Type Checking**:
+
+- Use `typeof` to check the data types of the following and print each result:
+    - A string
+    - A number
+    - A boolean
+    - An object
+    - A symbol
+    - An undefined variable
+### Submission:
+
+Submit your `.js` file with all tasks properly commented and outputs visible in the console.
