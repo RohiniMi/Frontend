@@ -1,3 +1,6 @@
+/***Global Scope**:
+    - Declare a variable with `var`, `let`, and `const` outside of any function.
+    - Try accessing them outside and inside functions and log the results.*/
 var age = 6;
 let name = "Rohini";
 const message = `Hi! there`;
