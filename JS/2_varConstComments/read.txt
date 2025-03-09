@@ -1,0 +1,25 @@
+### Objective:
+
+Demonstrate comprehension of JavaScript variables, constants, and comments through practical tasks.
+
+## **Task 1: Variable Declarations**
+
+1. **Create Variables**:
+    - Declare a variable using `let` to store a string.
+    - Declare a variable using `const` to store a number.
+    - Declare another variable using `var` to store a boolean value.
+    - Comment on the significance of each type of variable declaration.
+2. **Variable Manipulation**:
+    - Reassign a new value to the `let` variable.
+    - Attempt to reassign a new value to the `const` variable and observe the result.
+    - Explain the implications of using `const` for variables.
+
+## **Task 2: Constants and Comments**
+
+1.1. **Constants and Values**:
+    - Create a constant using `const` to store a string.
+    - Attempt to reassign a new value to the constant and observe the output.
+    - Describe the difference between constants and variables in JavaScript.
+2. **Comments in Code**:
+    - Use single-line comments to explain the purpose of each variable and constant.
+    - Use multi-line comments to provide an overview of the code section and its functionality.
