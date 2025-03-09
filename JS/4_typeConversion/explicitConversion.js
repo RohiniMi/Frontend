@@ -27,4 +27,4 @@ console.log(Boolean(null));
 console.log(Boolean(undefined));
 console.log(Boolean(5));
 console.log(Boolean(-5));
-console.log(Boolean(NaN));
+// console.log(Boolean(NaN));
