@@ -1,0 +1,52 @@
+### Assignment of Day 43 : Conditions
+
+### Objective:
+
+To grasp the usage of conditional statements in JavaScript and apply them to make decisions within a program.
+
+### Instructions:
+
+- Implement your code in a JavaScript `(.js)` file.
+- Clearly comment on each task to describe what the code is intended to do.
+- Verify your code by testing different scenarios and ensure it behaves as expected.
+- Display the output of your code using `console.log()`.
+
+### Tasks:
+
+### Part 1: If Statement
+
+1. **Simple If**:
+    - Write a condition that checks if a number is positive and logs a message if true.
+2. **If-Else**:
+    - Extend the above condition to log a different message if the number is not positive.
+
+### Part 2: If-Else If Statement
+
+1. **Multiple Conditions**:
+    - Write a set of conditions that will check if a number is positive, negative, or zero and log an appropriate message for each case.
+
+### Part 3: Nested If Statement
+
+1. **Nested Conditions**:
+    - Write a nested if statement that checks two conditions: first, if a string is of a certain length, and if true, checks if it contains a specific character.
+
+### Part 4: Switch Statement
+
+1. **Basic Switch**:
+    - Use a switch statement to log a message based on the value of a variable representing a day of the week.
+2. **Switch with Default**:
+    - Include a default case that will handle any values that don't match a case explicitly defined.
+
+### Part 5: Conditional (Ternary) Operator
+
+1. **Simple Ternary**:
+    - Use the ternary operator to assign a message to a variable based on a boolean condition and log it.
+
+### Part 6: Truthy and Falsy Values
+
+1. **Understanding Truthy and Falsy**:
+    - Write an if statement that checks the truthiness or falsiness of a variable and logs a message accordingly.
+
+### Submission:
+
+Submit your `.js` file with all the tasks clearly commented and the output for each printed using `console.log()`. Ensure that your comments articulate the logic behind using each type of conditional statement.
