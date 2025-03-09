@@ -1,0 +1,11 @@
+*Instructions:*
+
+1. Create an HTML file with a linked JavaScript file.
+2. Implement the following tasks in JavaScript and display the outputs using **`console.log()`** and **`document.write()`**.
+
+*Tasks:*
+
+**Print Hello World.**
+
+- Display "Hello, World!" in the console.
+- Display "Hello, World!" on the web page using **`document.write()`**.
