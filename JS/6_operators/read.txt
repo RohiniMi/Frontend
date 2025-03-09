@@ -1,0 +1,56 @@
+### Objective:
+
+To understand and apply various JavaScript operators including arithmetic, assignment, comparison, logical, bitwise, string, and special operators.
+
+### Instructions:
+
+- Write your code in a JavaScript (.js) file.
+- Comment on each task explaining what the code does and the outcome.
+- Test your code to ensure it functions as expected.
+- Use `console.log()` to print the results of your operations.
+
+### Tasks:
+
+### Part 1: Arithmetic Operators
+1. **Basic Arithmetic Operations**:
+    - Perform addition, subtraction, multiplication, and division with two numbers.
+    - Find the remainder of the division of two numbers using the modulus operator.
+2. **Unary Negation and Plus**:
+    - Use unary negation to negate the value of a numeric variable.
+    - Use unary plus to convert a string into a number.
+3. **Increment/Decrement**:
+    - Demonstrate the difference between pre and post-increment/decrement operations.
+
+### Part 2: Assignment Operators
+
+1. **Simple Assignment**:
+    - Assign values to variables using simple assignment and log the variables.
+2. **Combined Assignment Operators**:
+    - Use combined assignment operators for addition, subtraction, multiplication, division, and modulus and log the results.
+### Part 3: Comparison Operators
+
+1. **Equality Comparisons**:
+    - Compare two variables using both the equality (==) and strict equality (===) operators and explain the difference.
+2. **Relational Operators**:
+    - Use greater than, less than, greater than or equal to, and less than or equal to compare two variables.
+
+### Part 4: Logical Operators
+
+1. **AND, OR, NOT**:
+    - Use logical AND, OR, and NOT to combine Boolean expressions and log the outcomes.
+
+### Part 5: Bitwise Operators
+
+1. **AND, OR, XOR, NOT**:
+    - Apply bitwise AND, OR, XOR, and NOT to numbers and log the binary results.
+
+### Part 6: String Operators
+
+1. **Concatenation**:
+    - Use the concatenation operator (+) to combine two strings.
+2. **Concatenation with Assignment**:
+    - Combine two strings using the concatenation assignment operator (+=).
+
+### Submission:
+
+Submit your `.js` file with clearly commented tasks and printed results for each part of the assignment. Your comments should explain the purpose of the code and the results of the operations.
