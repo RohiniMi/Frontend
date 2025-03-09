@@ -1,0 +1,40 @@
+### Objective:
+
+Understand and demonstrate the use of type conversions in JavaScript. This includes implicit and explicit conversions between strings, numbers, and booleans.
+
+### Instructions:
+
+- Write your code in a JavaScript (.js) file.
+- Clearly comment on each task explaining the expected type conversion.
+- Test your code to ensure each part functions as expected.
+- Use `console.log()` to print the results and outcomes of each task.
+
+### Tasks:
+
+### Part 1: Implicit Type Conversion (Coercion)
+
+1. **String to Number**:
+    - Add a number to a string and store the result in a variable.
+    - Log the variable and comment on what type of conversion occurred.
+2. **Boolean to String**:
+    - Use a boolean in a string context (e.g., concatenation) and observe the result.
+    - Print the result and explain the conversion that took place.
+3. **Number to Boolean**:
+    - Use a number in a boolean context (e.g., in an `if` statement) and describe which numbers convert to `true` or `false`.
+
+### Part 2: Explicit Type Conversion
+
+1. **Using `String()`**:
+    - Convert a number and a boolean to a string using `String()`.
+    - Log the results and the types before and after the conversion.
+2. **Using `Number()`**:
+    - Convert a string numeric value and a boolean to a number using `Number()`.
+    - Log the results and the types before and after the conversion.
+    - Attempt to convert a non-numeric string to a number and log the result.
+3. **Using `Boolean()`**:
+    - Convert various values (0, 1, "", "hello", `null`, and `undefined`) to boolean using `Boolean()`.
+    - Log each result and explain the conversion rule that applies.
+
+### Submission:
+
+Submit your `.js` file with clearly commented tasks and printed results for each part of the assignment.
