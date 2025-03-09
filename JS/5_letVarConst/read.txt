@@ -1,0 +1,33 @@
+### Objective:
+
+To understand and demonstrate the differences in scope, hoisting, and reassignment between `var`, `let`, and `const` declarations in JavaScript.
+
+### Instructions:
+
+- Write your code in a JavaScript (.js) file.
+- Comment on each task explaining the behavior observed.
+- Test your code to ensure each part functions as expected.
+- Use `console.log()` to print the results and outcomes of each task.
+
+### Tasks:
+
+### Part 1: Scope Understanding
+
+1. **Global Scope**:
+    - Declare a variable with `var`, `let`, and `const` outside of any function.
+    - Try accessing them outside and inside functions and log the results.
+2. **Function Scope**:
+    - Declare a variable with `var` inside a function and then try to access it outside the function. Repeat the same with `let` and `const` and log the observations.
+3. **Block Scope**:
+    - Declare a variable with `let` and `const` inside a block (e.g., within an `if` statement) and try to access it outside the block. Do the same with `var` and note the differences.
+
+### Part 2: Reassignment and Redeclaration
+
+1. **Reassignment**:
+    - Declare a variable with `let` and `var` and then reassign it to a different value. Try the same with `const` and log the outcome.
+2. **Redeclaration**:
+    - Try redeclaring a variable with `var`, `let`, and `const` in the same scope and log the behaviors observed.
+
+### Submission:
+
+Submit your `.js` file with clearly commented tasks and printed results for each part of the assignment. Ensure your comments explain your observations and the reasons for the behavior you see.
