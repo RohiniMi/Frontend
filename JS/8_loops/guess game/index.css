@@ -1,0 +1,19 @@
+body{
+    display: -moz-inline-stack;
+    text-align: center;
+    justify-content: center;
+    padding: 15px;
+    margin: auto;
+    border:15px ;
+}
+#container{
+    justify-content: center;
+    align-items: center;
+}
+div{
+    background-color: bisque;
+}
+input, button{
+    height: auto;
+    width:fit-content;
+}
