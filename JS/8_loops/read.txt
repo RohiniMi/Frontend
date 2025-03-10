@@ -1,0 +1,48 @@
+### Objective:
+
+To understand and use different loop constructs in JavaScript to perform repeated operations.
+
+### Instructions:
+
+- Implement your solutions in a JavaScript (.js) file.
+- Comment on each task to describe what the code is intended to do.
+- Test your code with various scenarios to ensure correct behavior.
+- Use `console.log()` to display the results of your loops.
+
+### Tasks:
+
+### Part 1: For Loop
+
+1. **Counting**:
+    - Write a `for` loop that counts from 1 to 10 and logs each number.
+2. **Array Iteration**:
+    - Create an array of 5 colors and use a `for` loop to log each color.
+### Part 2: While Loop
+
+1. **Conditional Looping**:
+    - Use a `while` loop to simulate a guessing game where the user has to guess a secret number between 1 and 10. Log each guess and break the loop when the correct number is guessed.
+
+### Part 3: Do-While Loop
+
+1. **Post-Condition Looping**:
+    - Implement a `do-while` loop that continues to ask the user for input until they enter the word 'stop'.
+
+### Part 4: For-In Loop
+
+1. **Object Properties**:
+    - Create an object representing a car with properties like make, model, and year. Use a `for-in` loop to log each property and its value.
+### Part 5: For-Of Loop
+
+1. **Iterating Over Iterable Objects**:
+    - Given an iterable object like a string or an array, use a `for-of` loop to iterate over it and log each individual item.
+
+### Part 6: Loop Control Statements
+
+1. **Break**:
+    - Use a `for` loop to iterate through numbers 1 to 100 and log each number, but use the `break` statement to exit the loop once you reach a number divisible by 7.
+2. **Continue**:
+    - Modify the above loop to skip all numbers divisible by 7 instead of stopping at them, using the `continue` statement.
+
+### Submission:
+
+Submit your `.js` file with all tasks completed and commented. Ensure the outputs are correctly displayed using `console.log()` and that you've tested each loop with multiple scenarios for reliability.
