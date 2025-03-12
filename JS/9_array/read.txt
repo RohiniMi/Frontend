@@ -1,0 +1,44 @@
+### Objective:
+
+To grasp the use and manipulation of arrays in JavaScript, including accessing array elements, modifying arrays, and utilizing array methods.
+
+### Instructions:
+
+- Implement your solutions in a JavaScript (.js) file.
+- Clearly comment on your code to indicate what each part is intended to do.
+- Test your code with different inputs to ensure it works as expected.
+- Display the outputs using `console.log()`.
+
+### Tasks:
+
+### Part 1: Array Creation and Access
+1. **Create and Access**:
+    - Create an array called `fruits` with the elements "apple", "banana", "cherry", and "date".
+    - Log the first and last elements of the array to the console.
+
+### Part 2: Modifying Arrays
+
+1. **Adding Elements**:
+    - Add "elderberry" to the end of the `fruits` array and "apricot" to the beginning of the array.
+    - Log the modified array to the console.
+2. **Removing Elements**:
+    - Remove the last element of the `fruits` array and the first element of the array.
+    - Log the modified array and the removed elements to the console.
+
+### Part 3: Array Methods
+1. **Looping Through an Array**:
+    - Use the `forEach()` method to log each fruit in the `fruits` array with its index.
+2. **Searching for an Element**:
+    - Use the `indexOf()` method to find the index of "cherry" in the `fruits` array. If it exists, log its index; otherwise, log a message saying it does not exist.
+3. **Creating a String from an Array**:
+    - Use the `join()` method to create a string from the `fruits` array, with elements separated by a comma and a space. Log the resulting string.
+
+### Part 5: Array Sorting and Manipulation
+
+1. **Sorting**:
+    - Use the `sort()` method to sort the `fruits` array in alphabetical order and log the sorted array.
+2. **Reversing**:
+    - Use the `reverse()` method to reverse the `fruits` array and log the reversed array.
+
+### Submission:
+Submit your .js file with the completed tasks and appropriate comments. Ensure you have tested each method with different data and that all outputs are displayed correctly with console.log().

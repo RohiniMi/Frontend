@@ -1,0 +1,24 @@
+### Objective:
+
+The goal of this assignment is to deepen your understanding of JavaScript objects. You will demonstrate your ability to create, manipulate, and access data within objects, which are fundamental structures in JavaScript used to store and manage data dynamically.
+
+### Requirements:
+
+- All code should be written in JavaScript, and comments should be used to explain the purpose of the code.
+
+### Task:
+
+1. **Create an Object:**
+    - Define a `user` object with the following properties: `username`, `email`, `password`, `age`, and `isLoggedIn`.
+2. **Manipulate the Object:**
+    - Write a function `updateEmail` that takes a `user` object and a new email string as arguments and updates the `email` property of the user.
+3. **Access Data in the Object:**
+    - Access the `age` property of the `user` object and log it to the console.
+4. **Nested Objects:**
+    - Add a property `address` to the `user` object, which is itself an object containing `street`, `city`, `zipCode`, and `country`.
+5. **Object Iteration:**
+    - Iterate over the `user` object using a loop to display all its properties and values.
+
+### Submission:
+
+- Submit a `.js` file containing the code for the tasks above.
