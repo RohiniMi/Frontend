@@ -1,0 +1,36 @@
+### Assignment of Day 49 : Dates
+
+### Objective:
+
+Understand and manipulate dates and times in JavaScript.
+
+### Requirements:
+
+- Use JavaScript Date objects.
+- Test each function with console.log and output comments.
+- Format the code with proper indentation and naming conventions.
+
+### Task:
+
+1. **Create a Date Object:**
+    - Write a function `getCurrentDate` that creates a new Date object and returns the current date.
+2. **Format a Date:**
+    - Create a function `formatDate` that takes a Date object and returns a string in the format "YYYY-MM-DD".
+3. **Calculate Age:**
+    - Make a function `calculateAge` that calculates the age from a birthdate passed to it.
+4. **Add Days to Date:**
+    - Write a function `addDays` that takes a Date object and a number representing days, then returns a new Date object with the days added.
+5. **Find Day of Week:**
+    - Develop a function `getDayOfWeek` that returns the day of the week for a given Date object.
+6. **Compare Dates:**
+    - Write a function `isPastDate` that takes a Date object and returns `true` if the date is in the past.
+7. **Countdown to Event:**
+    - Define a function `daysUntilEvent` that returns the number of days until a specified date.
+8. **Display Month Name:**
+    - Implement a function `getMonthName` that returns the full name of the month for a given Date object.
+9. **Time Zone Conversion:**
+    - Write a function `convertToTimeZone` that takes a Date object and a time zone, then returns a new Date object converted to the specified time zone.
+
+### Submission:
+
+Submit a `.js` file with the implementations of the above functions. Each function should be tested with at least two examples, and the output should be commented in the code for review. Ensure that all test cases demonstrate different aspects of date handling.
