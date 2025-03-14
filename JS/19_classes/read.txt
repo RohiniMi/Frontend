@@ -1,0 +1,8 @@
+1. **Defining a Class:**
+    - Create a class called `Book` with a constructor that initializes the book's `title`, `author`, and `year`.
+2. **Creating an Instance:**
+    - Instantiate an object from the `Book` class with specific values for each property.
+3. **Adding Methods:**
+    - Add a method named `getSummary` that returns a string containing the title, author, and year of the book.
+4. **Static Methods:**
+    - Add a static method named `compareAge` that compares the age of two different book instances.
