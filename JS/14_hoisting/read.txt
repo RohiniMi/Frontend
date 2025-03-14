@@ -1,0 +1,30 @@
+### Objective:
+
+To understand the concept of hoisting in JavaScript and how it affects the behavior of variable and function declarations.
+
+### Requirements:
+
+- Utilize both function and variable hoisting in examples.
+- Include code comments that explain the hoisting behavior observed.
+- Follow best practices in naming and code structure.
+
+### Task:
+
+1. **Function Hoisting:**
+    - Demonstrate function hoisting with two examples:
+        - One where a function declaration is hoisted.
+        - Another example with a function expression that is not hoisted.
+    - Explain the difference in behavior.
+2. **Variable Hoisting:**
+    - Create an example that shows the hoisting of a `var` declared variable.
+    - Explain why `let` and `const` declarations are not hoisted in the same way.
+3. **Temporal Dead Zone:**
+    - Provide an example that shows the temporal dead zone for `let` and `const` variables.
+    - Explain the error thrown if a variable is used before declaration.
+4. **Hoisting in Different Scopes:**
+    - Write an example that uses hoisting in the global scope and another in the function scope.
+    - Discuss how hoisting behaves differently in these two scenarios.
+
+### Submission:
+
+Provide a `.js` file containing the examples and explanations as comments within the code. Ensure that each example is well-commented to explain the hoisting behavior and any errors that may result.
