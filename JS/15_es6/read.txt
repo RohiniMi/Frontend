@@ -1,0 +1,12 @@
+### Task:
+
+1. **`let` and `const`:**
+    - Write examples to show the difference between `var`, `let`, and `const`.
+    - Highlight the benefits of block scope variables over function scope.
+2. **Arrow Functions:**
+    - Convert a traditional function to an arrow function and explain the differences in syntax and behavior.
+3. **Default Parameters:**
+    - Write a function that uses default parameters and explain how they save from undefined errors.
+4. **Classes:**
+    - Define a class using the new class syntax and create an instance of it.
+    - Discuss how classes in ES6 are just syntactic sugar over JavaScript's prototype-based inheritance.
