@@ -1,0 +1,10 @@
+### Task:
+
+1. **Selecting Elements:**
+    - Use `document.getElementById`, `document.getElementsByClassName`, and `document.querySelector` to select different elements from a provided HTML file.
+2. **Creating Elements:**
+    - Create a new `div` with a unique ID and add it to the body of the page.
+3. **Modifying Elements:**
+    - Change the inner text of a paragraph element to say "Hello, World!".
+4. **Styling Elements:**
+    - Use JavaScript to change the style of an element to have a blue background and white text.
