@@ -1,0 +1,8 @@
+1. **Understanding async Functions:**
+    - Create a function declared with the `async` keyword that returns a string. Observe how it implicitly returns a Promise.
+2. **Implementing await:**
+    - Inside an `async` function, use the `await` keyword to wait for a Promise to resolve and print the resolved value to the console.
+3. **Error Handling in async/await:**
+    - Demonstrate how to catch errors in `async/await` using `try/catch` blocks by intentionally causing a Promise to reject.
+4. **Refactoring Promises to async/await:**
+    - Take an existing piece of code that uses `.then()` and `.catch()` and refactor it to use `async/await`.
