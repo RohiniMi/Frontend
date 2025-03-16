@@ -1,0 +1,8 @@
+1. **Basic Timeout:**
+    - Write a simple `setTimeout()` call that logs a message to the console after a delay of 3 seconds.
+2. **Clearing Timeout:**
+    - Create a `setTimeout()` that is meant to log a message to the console after a 5-second delay. However, before the message is logged, clear the timeout, so the code never runs.
+3. **Arguments in `setTimeout()`:**
+    - Pass additional arguments to the `setTimeout()` callback function and log them to the console.
+4. **Recurring Timeout:**
+    - Instead of using `setInterval()`, use `setTimeout()` within a function to create a recurring timeout that logs a message to the console every 2 seconds.
