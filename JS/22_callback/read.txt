@@ -1,0 +1,8 @@
+1. **Simple Callback:**
+    - Create a function that takes another function as an argument and calls it after a certain action is completed. Use this to print a message to the console.
+2. **Asynchronous Callback:**
+    - Utilize a callback to simulate a simple asynchronous operation, like reading data from a server. Use `setTimeout()` to mimic the server response time.
+3. **Array Iteration with Callbacks:**
+    - Implement the array methods `forEach()`, `map()`, and `filter()` using callbacks to process elements of an array.
+4. **Callback Hell:**
+    - Demonstrate a nested callback structure where one callback is inside another (often referred to as "callback hell"). Explain the drawbacks of this approach.
