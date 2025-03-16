@@ -1,0 +1,10 @@
+1. **Creating a Promise:**
+    - Write a function that returns a new Promise. This Promise should resolve with a message after a simulated delay using `setTimeout`.
+2. **Promise Consuming:**
+    - Use `.then()` to handle the resolved value from the Promise created in task 1. Log the value to the console.
+3. **Error Handling:**
+    - Add a rejection condition to the Promise. Use `.catch()` to handle any errors that occur during the Promise's execution.
+4. **Promise Chaining:**
+    - Chain multiple `.then()` methods to perform a sequence of operations on the resolved value from the Promise. Include at least three steps in the chain and log the results.
+5. **Chaining with Error Handling:**
+    - Add error handling to the promise chain from task 4 to catch any errors at any point in the chain.
